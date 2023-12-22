@@ -1,8 +1,11 @@
 import numpy as np
 
-n = 5  # substitua 5 pelo número desejado de elementos
-m = 3  # substitua 3 pelo valor desejado
+# Array unidimensional
+vetor = np.array([3, 4])
 
-vetor_de_valor_m = np.full(n, m)
+print(vetor)
 
-print(vetor_de_valor_m)
+# Calcular a norma do vetor
+norma = np.linalg.norm(vetor, ord=1)
+
+print("Norma do vetor:", norma)

@@ -2,11 +2,11 @@
 Modeling and Control of Robot Manipulators Course
 
 ## 📋 Description
-TP code implemented during the course.
+TP implemented during the course.
 
 ## 🛠️ Software used
 
-The project was implemented in Jupyter Notebook (python).
+The project was implemented in Jupyter Notebook (Python).
 
 ## ✒️ Authors
 
